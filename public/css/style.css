@@ -1,0 +1,9 @@
+#email-form {
+    padding: 0 1em;
+    margin: 5em auto;
+    max-width: 400px;
+}
+
+#email-form .alert {
+    margin: 1.3em 0;
+}
